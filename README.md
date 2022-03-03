@@ -3,7 +3,8 @@ For almost twenty years, I have served as a system administrator and operational
 retail banking in Greece.In the last 2 years I am focusing on Azure Cloud Platform as an engineer and also as a consultant trying to promote the importance and capabilities
 of Cloud technologies.
 I also share my endeavors here on Github but also on my personal blog and my goal is to build successful Azure Projects and ofcourse to contribute to the community.
-I currently hold a number of MS Azure certifications and I am always eager to learn more and more.
+I currently hold a number of MS Azure certifications and my current role is DevOps & Cloud Engineer at Capgemini, one of the global Consulting companies in the world.
+In the last 2 years I live in the Netherlands,The Hague, enjoying anything that a beautiful city like The Hague can offer to someone who is always like to develop him/her self by any means!
 <!--
 **jdk1900/jdk1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
