@@ -5,7 +5,7 @@ of Cloud technologies.
 I also share my endeavors here on Github but also on my personal blog and my goal is to build successful Azure Projects and ofcourse to contribute to the community.
 
 I currently hold a number of MS Azure certifications and my current role is DevOps & Cloud Engineer at Capgemini, one of the global Consulting companies in the world.
-In the last 2 years I live in the Netherlands,The Hague, enjoying anything that a beautiful city like The Hague can offer to someone who is always like to develop his/her self by any means!
+In the last 2 years I live in the Netherlands,The Hague, enjoying this beautiful city !
 <!--
 **jdk1900/jdk1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
