@@ -4,8 +4,8 @@ retail banking in Greece.In the last 2 years I am focusing on Azure Cloud Platfo
 of Cloud technologies.
 I also share my endeavors here on Github but also on my personal blog and my goal is to build successful Azure Projects and ofcourse to contribute to the community.
 
-I currently hold a number of MS Azure certifications and my current role is DevOps & Cloud Engineer at Capgemini, one of the global Consulting companies in the world.
-In the last 2 years I live in the Netherlands,The Hague, enjoying this beautiful city !
+I currently hold a number of MS Azure, AWS and Google certifications and my current role is DevOps Engineer at Nationale Naderlanden, one of the largest financial services company that serves retail and corporate customers.
+In the last 4 years I live in the Netherlands,The Hague, enjoying this beautiful city !
 <!--
 **jdk1900/jdk1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
